@@ -1,4 +1,0 @@
-streamlit
-pandas
-better_profanity
-requests
